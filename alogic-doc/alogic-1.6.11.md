@@ -290,5 +290,11 @@ alogic-1.6.11
 ### 1.6.11.51 [20180810 duanyy]
 - alogic-common:xscript的set指令增加raw模式;
 
+### 1.6.11.52 [20180816 duanyy]
+- alogic-lucene:增加删除文档的xscript插件;
+
+### 1.6.11.53 [20180817 duanyy]
+- alogic-vfs:增加基于amazon s3的BlobManager实现;
+
 
 
