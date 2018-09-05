@@ -296,5 +296,22 @@ alogic-1.6.11
 ### 1.6.11.53 [20180817 duanyy]
 - alogic-vfs:增加基于amazon s3的BlobManager实现;
 
+### 1.6.11.54 [20180822 duanyy]
+- alogic-common:增加所生成证书的keyUsage和extKeyUsage的设置;
 
+### 1.6.11.55 [20180822 duanyy]
+- alogic-common:增加获取证书序列号功能;
+
+### 1.6.11.56 [20180823 duanyy]
+- alogic-common:证书的序列号可定制;
+
+### 1.6.11.57 [20180828 duanyy]
+- alogic-common:增加regex-match插件;
+- alogic-auth:SessionAccessController增加浏览器会话id的传递;
+
+### 1.6.11.58 [20180829 duanyy]
+- alogic-common:增加树相关的操作，如数组转换为树，树遍历等;
+- alogic-dbcp:修正on-load事件处理问题;
+- alogic-common:修正on-load事件处理问题;
+- alogic-kvalue:修正on-load事件处理问题
 
